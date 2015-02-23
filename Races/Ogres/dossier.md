@@ -25,15 +25,15 @@ Ogre beauty transcends to their women and mating also. Smooth, pale complexions 
 * Gnomes: Gnomes and Ogres don’t associate much. Gnomes live underground and focus on Academics. But unlike the Centaurs, the Gnomes still practice magic and enjoy discussing magic with Ogres. Ogres and Gnomes are the most magically inclined and therefore make great allies in that trade, but the Gnomes don’t seem to care to explore their friendship as much as the halflings do. 
 
 ##Classes
-* Barbarian Almost every Ogre has at least one level in Barbarian, and this typically is their first class as a child. Most Ogres remain as Barbarians and serve as Ogre soldiers in battles when not farming. 
-* Bard Since the Ogre dialect is built on poetry, almost all Ogres enjoy music and song, but because of an Ogre’s giant hands, and large strength, most Ogres limit themselves in the Bardic class. Many Ogres who become Bards use a woodwind instrument and use a longsword instead of a rapier. 
-* Fighter Very few Ogres find themselves as Fighters. Fighters require too much discipline and focus and since most Ogres become Barbarians anyway, the fighter is just pointless. Many Half-Ogres may choose the Fighter class, but not many Ogres care for it. 
-* Ranger the second most common melee class. Many Ogres live in the dense forests as they commune with nature and the Ranger’ is the perfect class for that. The hunter, the beast tamer. Both versions fit at home among the Ogres. 
-* Rogue With the Ogre’s giant size and thick limbs, the nimble and stealthy Rogue is not a favoured class of the Ogres. Though some dastardly Ogres may add a class if only to learn poisons. 
-* Monk Some Ogres become Monks, but unlike many races, an Ogre Monk will simply swing their fists wildly like a drunken savage, not minding for the sophistication that many races follow. 
-* Paladin often becoming chiefs and generals of Ogres, this is due to the divine faith of the Paladin giving the Ogre more discipline and control than most Ogres. 
-* Cleric Like the Paladin, these Ogres often become leaders of Ogres, with Clerics becoming teachers and healers among Ogre tribes. 
-* Druid The second most common kind of spellcaster, Druid Ogres are prominent casters among Ogres. Their knowledge of nature often leads them to becoming spiritual leaders in the absence of a Cleric. 
-* Sorcerer The most common caster class among Ogres, the Ogres see Magic as a natural force that breaths from an Ogre’s lips, so to be a Sorcerer is to simply be exercising that natural right. 
-* Wizard The least common class out of any, Ogres see magic as a natural force like gravity and air and blood, and to focus too much time trying to study it is a wasted effort. Many Ogres who are Wizards are seen as abnormal. 
-* Warlock Ogres who become Warlocks are rare, but only because most Warlocks are rare anyway. Ogres who do become warlocks, typically become Archfey Warlocks, worshiping whatever Archfey their tribe followed to begin with. 
+* Barbarian: Almost every Ogre has at least one level in Barbarian, and this typically is their first class as a child. Most Ogres remain as Barbarians and serve as Ogre soldiers in battles when not farming. 
+* Bard: Since the Ogre dialect is built on poetry, almost all Ogres enjoy music and song, but because of an Ogre’s giant hands, and large strength, most Ogres limit themselves in the Bardic class. Many Ogres who become Bards use a woodwind instrument and use a longsword instead of a rapier. 
+* Fighter: Very few Ogres find themselves as Fighters. Fighters require too much discipline and focus and since most Ogres become Barbarians anyway, the fighter is just pointless. Many Half-Ogres may choose the Fighter class, but not many Ogres care for it. 
+* Ranger: the second most common melee class. Many Ogres live in the dense forests as they commune with nature and the Ranger’ is the perfect class for that. The hunter, the beast tamer. Both versions fit at home among the Ogres. 
+* Rogue: With the Ogre’s giant size and thick limbs, the nimble and stealthy Rogue is not a favoured class of the Ogres. Though some dastardly Ogres may add a class if only to learn poisons. 
+* Monk: Some Ogres become Monks, but unlike many races, an Ogre Monk will simply swing their fists wildly like a drunken savage, not minding for the sophistication that many races follow. 
+* Paladin: often becoming chiefs and generals of Ogres, this is due to the divine faith of the Paladin giving the Ogre more discipline and control than most Ogres. 
+* Cleric: Like the Paladin, these Ogres often become leaders of Ogres, with Clerics becoming teachers and healers among Ogre tribes. 
+* Druid: The second most common kind of spellcaster, Druid Ogres are prominent casters among Ogres. Their knowledge of nature often leads them to becoming spiritual leaders in the absence of a Cleric. 
+* Sorcerer: The most common caster class among Ogres, the Ogres see Magic as a natural force that breaths from an Ogre’s lips, so to be a Sorcerer is to simply be exercising that natural right. 
+* Wizard: The least common class out of any, Ogres see magic as a natural force like gravity and air and blood, and to focus too much time trying to study it is a wasted effort. Many Ogres who are Wizards are seen as abnormal. 
+* Warlock: Ogres who become Warlocks are rare, but only because most Warlocks are rare anyway. Ogres who do become warlocks, typically become Archfey Warlocks, worshiping whatever Archfey their tribe followed to begin with. 
