@@ -1,4 +1,4 @@
-#Centaurs
+#Myriad (Water Nymph)
 *Authors:  *
 
 ##Location
