@@ -1,5 +1,5 @@
-#Centaurs
-*Authors:  *
+#Auriad (Sky Nymph)
+*Authors: Sebastian*
 
 ##Location
 
