@@ -1,4 +1,4 @@
-#Centaurs
+#Dryad (Wood Nymph)
 *Authors:  *
 
 ##Location
