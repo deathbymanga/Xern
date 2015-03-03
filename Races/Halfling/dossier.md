@@ -1,4 +1,4 @@
-#Centaurs
+#Halfling
 *Authors:  *
 
 ##Location
