@@ -21,10 +21,16 @@ Centaurs are known for expanding the realm of science beyond any race, having cr
 * Humans: Humans and Centaurs are as close as brothers in Xern. whenever a human colony teams up with a centaur colony, you can expect something is going to happen. The humans benefit greatly from the Centaur's intelligence and ingenuity. While the Centaurs benefit from the human's decisiveness and flexible nature. 
 * Half-Ogres: To a Centaur, a Half-Ogre is just as bad as an Ogre, with all the negative traits of a human combined. 
 * Ogres: To a Centaur, an Ogre is nothing more than a stupid brute. They can't seem to speak right and they are so obsessed with the magical world around them. The two races are always at odds and often get into skirmishes all the time.
-* Goblins: Goblins tend to avoid the Centaurs for good reason since no invading army has ever stood a chance against the centaurs on their home-turf. To Centaurs, Goblins are cruel and vicious, but harmless to anyone who can stand up to them.  
-* Orcs: Despite the Centaur's opinions of the Goblins, the Centaurs ironically are the second biggest owners of Orc slaves. The Centaurs see it as pointless to try and reverse what the Goblins did and instead decided to make the best out of this situation. 
-* Harpies: Harpies and Centaurs almost never cross paths, so they have very little opinion of each other.  
-* Nymphs: The Centaurs and Nymphs can agree on many things thanks to their similar mind-set, but they rarely get along when it comes to magic. So friendly relations tend to stay neutral. 
+* Northern Goblins: 
+* Southern Goblins: Goblins tend to avoid the Centaurs for good reason since no invading army has ever stood a chance against the centaurs on their home-turf. To Centaurs, Goblins are cruel and vicious, but harmless to anyone who can stand up to them.  
+* Dung Orcs: Despite the Centaur's opinions of the Goblins, the Centaurs ironically are the second biggest owners of Orc slaves. The Centaurs see it as pointless to try and reverse what the Goblins did and instead decided to make the best out of this situation. 
+* Divine Orcs
+* Mountain Harpies: Harpies and Centaurs almost never cross paths, so they have very little opinion of each other.  
+* Sky Harpies: 
+* Wood Nymphs: The Centaurs and Nymphs can agree on many things thanks to their similar mind-set, but they rarely get along when it comes to magic. So friendly relations tend to stay neutral. 
+* Water Nymphs:
+* Stone Nymphs:
+* Sky Nymphs: 
 * Half-Nymphs: To many Centaurs, Half-Nymphs are nothing more than  overly attractive humans. 
 * Halflings: Halflings are the biggest annoyance to any Centaur. they come into Centaur territory all the time and just seem to cause problems all the time, and then disappear whenever they want. 
 * Gnomes: Gnomes and Centaurs are often the best of friends, but the Centaurs seem to hold a little contempt for their Halfling friends due to their talent for magic. To a Centaur, Gnomes are waisting the potential and brilliant minds playing with such petty tricks. 
