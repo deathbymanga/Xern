@@ -1,4 +1,4 @@
-#Centaurs
+#Divine Orc
 *Authors:  *
 
 ##Location
