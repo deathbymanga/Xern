@@ -1,4 +1,4 @@
-#Centaurs
+#Half-Nymph
 *Authors:  *
 
 ##Location
