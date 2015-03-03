@@ -1,4 +1,4 @@
-#Centaurs
+#Oread (Mountain Nymph)
 *Authors:  *
 
 ##Location
