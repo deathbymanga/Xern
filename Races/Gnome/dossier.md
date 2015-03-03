@@ -1,4 +1,4 @@
-#Centaurs
+#Gnomes
 *Authors:  *
 
 ##Location
@@ -11,10 +11,16 @@
 * Humans: 
 * Half-Ogres: 
 * Ogres: 
-* Goblins: 
-* Orcs: 
-* Harpies: 
-* Nymphs: 
+* Northern Goblins: 
+* Southern Goblins: 
+* Dung Orcs: 
+* Divine Orcs: 
+* Mountain Harpies: 
+* Sky Harpies:
+* Wood Nymphs: 
+* Water Nymphs: 
+* Stone Nymphs: 
+* Sky Nymphs: 
 * Half-Nymphs: 
 * Halflings: 
 * Gnomes: 
