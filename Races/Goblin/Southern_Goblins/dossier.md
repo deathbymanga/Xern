@@ -3,7 +3,7 @@
 
 ##Stats
 Intelligence: +2
-Dexterity: +1
+Strength: +1
 
 ##Location
 
