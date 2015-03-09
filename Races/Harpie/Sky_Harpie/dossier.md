@@ -1,6 +1,10 @@
 #Sky Harpies
 *Authors:  Sebastian*
 
+##Stats
+Dexterity: +2
+Wisdom: +1
+
 ##Location
 The Sky Harpies are found on floating islands, where they isolate themselves from the rest of the world, alongside their kin, the Divine Orcs. Sky Harpies build nests for themselves along the bottom of the islands. 
 
