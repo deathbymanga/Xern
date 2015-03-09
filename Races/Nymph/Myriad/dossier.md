@@ -1,6 +1,10 @@
 #Myriad (Water Nymph)
 *Authors:  *
 
+##Stats
+Dexterity: +2
+Constitution: +1
+
 ##Location
 
 
