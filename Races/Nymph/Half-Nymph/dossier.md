@@ -1,6 +1,10 @@
 #Half-Nymph
 *Authors:  *
 
+##Stats
+Charisma: +2
+2 other abilities: +1
+
 ##Location
 
 
