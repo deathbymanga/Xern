@@ -1,6 +1,10 @@
 #Divine Orc
 *Authors:  *
 
+##Stats
+Strength: +2
+Wisdom: +1
+
 ##Location
 
 
