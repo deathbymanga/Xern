@@ -1,6 +1,10 @@
 #Half-Ogres
 *Authors:  *
 
+##Stats
+Strength: +2
+Any 2 abilities: +1
+
 ##Location
 
 
