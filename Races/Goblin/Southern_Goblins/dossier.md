@@ -1,6 +1,10 @@
 #Southern Goblins
 *Authors:  *
 
+##Stats
+Intelligence: +2
+Dexterity: +1
+
 ##Location
 
 
