@@ -1,6 +1,10 @@
 #Mountain Harpies
 *Authors:  *
 
+##Stats
+Dexterity: +2
+Charisma: +1
+
 ##Location
 
 
