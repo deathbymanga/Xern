@@ -1,6 +1,10 @@
 #Centaurs
 *Authors: Sebastian*
 
+##Stats
+Constitution: +2
+Wisdom: +1
+
 ##Location
 Centaurs live along islands and the sandy coasts of Xern, removing themselves as far from the magic of the forests as they can. Their homes are expertly crafted and designed to perfectly suit the Centaur way of life. Rooms are typically twice as big as other races keep them and with three times as much room since the Centaur has such a long body to work with. 
 
