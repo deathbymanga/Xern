@@ -1,6 +1,10 @@
 #
 *Authors:  *
 
+##Stats
+Charisma: +2
+Wisdom: +1
+
 ##Location
  
 
