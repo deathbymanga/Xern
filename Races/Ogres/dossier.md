@@ -1,6 +1,10 @@
 #Ogres
 *Authors: Sebastian*
 
+##Stats
+Strength: +2
+Charisma: +1
+
 ##Location
 Ogres live in dense forests for the most part and find their tribes built closest to areas where magic flourishes the most. their homes are made from shattered trees that they break with their bare hands, but most tend to use the trees that are long since past their prime, killing the weak old trees to allow for young new trees to flourish. 
 
