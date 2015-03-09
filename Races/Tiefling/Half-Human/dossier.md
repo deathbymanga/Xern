@@ -1,6 +1,10 @@
 #Tiefling Human
 *Authors:  *
 
+##Stats
+Charisma: +2
+Intelligence: +1
+
 ##Location
  
 
