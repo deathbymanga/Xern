@@ -2,8 +2,8 @@
 *Authors:  *
 
 ##Stats:
-Strength: +2
-Constitution: +1
+###Strength: +2
+###Constitution: +1
 Speed: 30
 Size: 5-6ft
 Darvision: Black/white 60ft
