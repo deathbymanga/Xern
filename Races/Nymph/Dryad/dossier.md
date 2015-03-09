@@ -1,6 +1,10 @@
 #Dryad (Wood Nymph)
 *Authors:  *
 
+##Stats
+Dexterity: +2
+Wisdom: +1
+
 ##Location
 
 
