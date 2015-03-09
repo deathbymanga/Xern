@@ -1,6 +1,10 @@
 #Northern Goblins
 *Authors:  *
 
+##Stats
+Intelligence: +2
+Charisma: +1
+
 ##Location
 
 
