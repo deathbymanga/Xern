@@ -1,6 +1,10 @@
 #Auriad (Sky Nymph)
 *Authors: Sebastian*
 
+##Stats
+Dexterity: +2
+Intelligence: +1
+
 ##Location
 
 
