@@ -1,50 +1,50 @@
 Centaurs	
-* * Constitution: +2 Wisdom: +1
+ * * Constitution: +2 Wisdom: +1
 Gnome	
-* Deep
-* * Intelligence: +2 Dexterity +1
-* Forrest
-* * Intelligence: +2 Wisdom +1
+ * Deep
+ * * Intelligence: +2 Dexterity +1
+ * Forrest
+ * * Intelligence: +2 Wisdom +1
 Goblin	
-* North
-* * Intelligence: +2 Charisma: +1
-* South
-* * Intelligence: +2 Strength: +1
+ * North
+ * * Intelligence: +2 Charisma: +1
+ * South
+ * * Intelligence: +2 Strength: +1
 Halfling	
-* Stout
-* * Dexterity: +2 Constitution: +1
-* Lightfoot
-* * Dexterity: +2 Charisma: +1
+ * Stout
+ * * Dexterity: +2 Constitution: +1
+ * Lightfoot
+ * * Dexterity: +2 Charisma: +1
 Harpie	
-* Mountain
-* * Dexterity: +2 Charisma: +1
-* Sky
-* * Dexterity: +2 Wisdom: +1
+ * Mountain
+ * * Dexterity: +2 Charisma: +1
+ * Sky
+ * * Dexterity: +2 Wisdom: +1
 Human	
-* Human
-* * 1 in all
-* Half-Ogre
-* * Strength: +2, two other abilities +1
-* Half-Nymph
-* * Charisma: +2, two other abilities +1
+ * Human
+ * * 1 in all
+ * Half-Ogre
+ * * Strength: +2, two other abilities +1
+ * Half-Nymph
+ * * Charisma: +2, two other abilities +1
 Nymph	
-* Water
-* * Dexterity: +2 Constitution: +1
-* Sky
-* * Dexterity: +2 Intelligence: +1
-* Mountain
-* * Dexterity: +2 Charisma: +1
-* Wood
-* * Dexterity: +2 Wisdom: +1
+ * Water
+ * * Dexterity: +2 Constitution: +1
+ * Sky
+ * * Dexterity: +2 Intelligence: +1
+ * Mountain
+ * * Dexterity: +2 Charisma: +1
+ * Wood
+ * * Dexterity: +2 Wisdom: +1
 Orc	
-* Divine
-* * Strength: +2 Wisdom: +1
-* Dung
-* * Strength: +2 Constitution: +1
+ * Divine
+ * * Strength: +2 Wisdom: +1
+ * Dung
+ * * Strength: +2 Constitution: +1
 Tiefling
-* Half-Human
-* * Intelligence: +2 Charisma: +1
-* Half-Centaur
-* * Intelligence: +2 Constitution: +1
+ * Half-Human
+ * * Intelligence: +2 Charisma: +1
+ * Half-Centaur
+ * * Intelligence: +2 Constitution: +1
 Blackback
-* * Strength: +2 Charisma: +1
+ * * Strength: +2 Charisma: +1
