@@ -1,67 +1,67 @@
-##Centaurs	
- - - Constitution: +2 Wisdom: +1
-##Gnome	
-###Deep
+#Centaurs	
+- - Constitution: +2 Wisdom: +1
+#Gnome	
+##Deep
  - - Intelligence: +2 Dexterity +1
-###Forrest
+##Forrest
  - - Intelligence: +2 Wisdom +1
-##Goblin	
-###North
+#Goblin	
+##North
  - - Intelligence: +2 Charisma: +1
  - - Proficient in Animal Handling
-###South
+##South
  - - Intelligence: +2 Strength: +1
  - - Proficient in Animal Handling
-##Halfling	
-###Stout
+#Halfling	
+##Stout
  - - Dexterity: +2 Constitution: +1
-###Lightfoot
+##Lightfoot
  - - Dexterity: +2 Charisma: +1
-##Harpie	
-###Mountain
+#Harpie	
+##Mountain
  - - Dexterity: +2 Charisma: +1
  - - Can fly
-###Sky
+##Sky
  - - Dexterity: +2 Wisdom: +1
  - - Can Fly
-##Human	
-###Human
+#Human	
+##Human
  - - 1 in all
-###Half-Ogre
+##Half-Ogre
  - - Strength: +2, two other abilities +1
  - - Magic Initiative Feat
-###Half-Nymph
+##Half-Nymph
  - - Charisma: +2, two other abilities +1
-##Nymph	
-###Water
+#Nymph	
+##Water
  - - Dexterity: +2 Constitution: +1
  - - Fey Ancestry
  - - Can Breath underwater
-###Sky
+##Sky
  - - Dexterity: +2 Intelligence: +1
  - - Fey Ancestry
  - - Can Fly
-###Mountain
+##Mountain
  - - Dexterity: +2 Charisma: +1
  - - Fey Ancestry
-###Wood
+##Wood
  - - Dexterity: +2 Wisdom: +1
  - - Fey Ancestry
-##Orc	
-###Divine
+#Orc	
+##Divine
  - - Strength: +2 Wisdom: +1
  - - Can fly
-###Dung
+##Dung
  - - Strength: +2 Constitution: +1
-##Tiefling
-###Tiefling (Half-Human)
+#Tiefling
+##Tiefling (Half-Human)
  - - Intelligence: +2 Charisma: +1
  - - Fire Resistance
-###Satyr (Half-Centaur)
+##Satyr (Half-Centaur)
  - - Intelligence: +2 Constitution: +1
  - - Poison Resistance
-###Oni (Half-Ogre)
+##Oni (Half-Ogre)
  - - Intelligence: +2 Strength + 1
  - - Necrotic Resistance
-##Blackback
+#Blackback
  - - Strength: +2 Charisma: +1
