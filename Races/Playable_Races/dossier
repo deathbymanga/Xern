@@ -20,8 +20,10 @@ Halfling
 Harpie	
  - Mountain
  - - Dexterity: +2 Charisma: +1
+ - - Can fly
  - Sky
  - - Dexterity: +2 Wisdom: +1
+ - - Can Fly
 Human	
  - Human
  - - 1 in all
@@ -38,6 +40,7 @@ Nymph
  - Sky
  - - Dexterity: +2 Intelligence: +1
  - - Fey Ancestry
+ - - Can Fly
  - Mountain
  - - Dexterity: +2 Charisma: +1
  - - Fey Ancestry
@@ -47,6 +50,7 @@ Nymph
 Orc	
  - Divine
  - - Strength: +2 Wisdom: +1
+ - - Can fly
  - Dung
  - - Strength: +2 Constitution: +1
 Tiefling
