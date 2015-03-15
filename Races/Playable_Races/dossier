@@ -25,6 +25,7 @@ Human
  - - 1 in all
  - Half-Ogre
  - - Strength: +2, two other abilities +1
+ - - Magic Initiative Feat
  - Half-Nymph
  - - Charisma: +2, two other abilities +1
 Nymph	
@@ -46,5 +47,7 @@ Tiefling
  - - Intelligence: +2 Charisma: +1
  - Half-Centaur
  - - Intelligence: +2 Constitution: +1
+ - Oni
+ - - Intelligence: +2 Strength + 1
 Blackback
  - - Strength: +2 Charisma: +1
