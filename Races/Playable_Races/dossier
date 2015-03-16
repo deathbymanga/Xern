@@ -53,15 +53,17 @@
  - - Can fly
 ##Dung
  - - Strength: +2 Constitution: +1
-#Tiefling
+#Tiefling (Half-demon/Half-Humanoid)
 ##Tiefling (Half-Human)
  - - Intelligence: +2 Charisma: +1
  - - Fire Resistance
-##Satyr (Half-Centaur)
- - - Intelligence: +2 Constitution: +1
- - - Poison Resistance
 ##Oni (Half-Ogre)
  - - Intelligence: +2 Strength + 1
  - - Necrotic Resistance
-#Blackback
+#Blackback (Half-demon/Half-Dragon)
  - - Strength: +2 Charisma: +1
+#Wildling (Half-demon/Half-Animal)
+##Gnoll (Half-Hyena)
+ - - Dexterity: +2 Strength: +1
+##Satyr (Half-Goat)
+ - - Dexterity: +2 Widsom: +1
