@@ -1,10 +1,12 @@
 #Centaurs	
-- - Constitution: +2 Wisdom: +1
+ - - Constitution: +2 Wisdom: +1
+
 #Gnome	
 ##Deep
  - - Intelligence: +2 Dexterity +1
 ##Forrest
  - - Intelligence: +2 Wisdom +1
+
 #Goblin	
 ##North
  - - Intelligence: +2 Charisma: +1
@@ -12,11 +14,13 @@
 ##South
  - - Intelligence: +2 Strength: +1
  - - Proficient in Animal Handling
+
 #Halfling	
 ##Stout
  - - Dexterity: +2 Constitution: +1
 ##Lightfoot
  - - Dexterity: +2 Charisma: +1
+
 #Harpie	
 ##Mountain
  - - Dexterity: +2 Charisma: +1
@@ -24,6 +28,7 @@
 ##Sky
  - - Dexterity: +2 Wisdom: +1
  - - Can Fly
+
 #Human	
 ##Human
  - - 1 in all
@@ -33,11 +38,8 @@
 ##Half-Nymph
  - - Charisma: +2, two other abilities +1
  - - Fey Ancestry
+
 #Nymph	
-##Water
- - - Dexterity: +2 Constitution: +1
- - - Fey Ancestry
- - - Can Breath underwater
 ##Sky
  - - Dexterity: +2 Intelligence: +1
  - - Fey Ancestry
@@ -49,11 +51,9 @@
  - - Dexterity: +2 Wisdom: +1
  - - Fey Ancestry
 #Orc	
-##Divine
- - - Strength: +2 Wisdom: +1
- - - Can fly
 ##Dung
  - - Strength: +2 Constitution: +1
+
 #Tiefling (Half-demon/Half-Humanoid)
 ##Tiefling (Half-Human)
  - - Intelligence: +2 Charisma: +1
@@ -61,8 +61,10 @@
 ##Oni (Half-Ogre)
  - - Intelligence: +2 Strength + 1
  - - Necrotic Resistance
+
 #Blackback (Half-demon/Half-Dragon)
  - - Strength: +2 Charisma: +1
+
 #Wildling (Half-demon/Half-Animal)
 ##Gnoll (Half-Hyena)
  - - Dexterity: +2 Strength: +1
