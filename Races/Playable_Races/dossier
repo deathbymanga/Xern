@@ -71,8 +71,10 @@
 ##Gnoll (Half-Hyena)
  - - Strength: +1
  - - Proficient in Intimidate
+ - - Can add Proficiency bonus when resisting Intimidation from others
  - - Bite Attack (1d6 Peircing damage). If the player is flanking, they can use their Bite as a Bonus action. 
 ##Satyr (Half-Goat)
  - - Widsom: +1
- - - Headbutt Attack (1d6 Peircing damage). If the player is dashing, they can use their Headbutt as a Bonus action. 
+ - - Proficiency in Persuasion
+ - - Headbutt Attack (1d6 Bludgeoning damage). If the player is dashing, they can use their Headbutt as a Bonus action. 
  - - Free Movement - Satyrs can move through any nonmagical difficult terrain with no penalty when Dashing
