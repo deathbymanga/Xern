@@ -68,17 +68,25 @@
 
 #Nymph	
  - Dexterity: +2
- - Fey Ancestory
+ - Proficient with Longsword, shortsword, shortbow, and longbow
 ##Sky
  - - Intelligence: +1
- - - Fey Ancestry
- - - Can Fly
+ - - Darkvision (60/monochrome)
+ - - 1 extra Wizard Cantrip
+ - - Can Fly (20feet)
 ##Mountain
  - - Charisma: +1
- - - Fey Ancestry
+ - - Darkvision (120/color)
+ - - Disadvantage on Attack rolls and Perception roles in direct sunlight
+ - - Mountain Magic (Charisma)
+ - - - Dancing Lights Cantrip
+ - - - Level 3 - Faerie Fire
+ - - - Level 5 - Invisibility
 ##Wood
  - - Wisdom: +1
- - - Fey Ancestry
+ - - Darkvision (60/monochrome)
+ - - Speed: 35
+ - - Mask of the Wild
 
 #Orc	
  - Strength: +2
