@@ -52,12 +52,17 @@
 ##Dung
  - - Strength: +2 Constitution: +1
 
-#Tiefling (Half-demon/Half-Humanoid)
+#Hellspawn (Half-demon/Half-Humanoid)
+ - Intelligence: +2
+ - Infernal Legacy (Charisma)
+ - - Thaurnaturgy Cantrip
+ - - level 3 - Hellish Rebuke (2nd level)
+ - - level 5 - Darkness
 ##Tiefling (Half-Human)
- - - Intelligence: +2 Charisma: +1
+ - - Charisma: +1
  - - Fire Resistance
 ##Oni (Half-Ogre)
- - - Intelligence: +2 Strength + 1
+ - - Strength + 1
  - - Necrotic Resistance
 
 #Blackback (Half-demon/Half-Dragon)
