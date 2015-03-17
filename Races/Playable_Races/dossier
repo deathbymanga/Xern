@@ -64,7 +64,15 @@
  - - Strength: +2 Charisma: +1
 
 #Wildling (Half-demon/Half-Animal)
+ - Dexterity: +2
+ - Proficient in Perception
+ - Darkvision
+ - Proficient in Constitution Saving Throws
 ##Gnoll (Half-Hyena)
- - - Dexterity: +2 Strength: +1
+ - - Strength: +1
+ - - Proficient in Intimidate
+ - - Bite Attack (1d6 Peircing damage). If the player is flanking, they can use their Bite as a Bonus action. 
 ##Satyr (Half-Goat)
- - - Dexterity: +2 Widsom: +1
+ - - Widsom: +1
+ - - Headbutt Attack (1d6 Peircing damage). If the player is dashing, they can use their Bite as a Bonus action. 
+ - - Free Movement - Satyrs can move through any nonmagical difficult terrain with no penalty when Dashing
