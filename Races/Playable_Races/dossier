@@ -37,15 +37,17 @@
  - - Fey Ancestry
 
 #Nymph	
+ - Dexterity: +2
+ - Fey Ancestory
 ##Sky
- - - Dexterity: +2 Intelligence: +1
+ - - Intelligence: +1
  - - Fey Ancestry
  - - Can Fly
 ##Mountain
- - - Dexterity: +2 Charisma: +1
+ - - Charisma: +1
  - - Fey Ancestry
 ##Wood
- - - Dexterity: +2 Wisdom: +1
+ - - Wisdom: +1
  - - Fey Ancestry
 
 #Orc	
@@ -54,6 +56,7 @@
 
 #Hellspawn (Half-demon/Half-Humanoid)
  - Intelligence: +2
+ - Darkvision (30 feet)
  - Infernal Legacy (Charisma)
  - - Thaurnaturgy Cantrip
  - - level 3 - Hellish Rebuke (2nd level)
@@ -71,14 +74,11 @@
 
 #Wildling (Half-demon/Half-Animal)
  - Constitution: +2
- - Proficient in Perception
- - Proficient in Athletics
- - Darkvision
+ - Proficient in Perception OR Atheletics
+ - Darkvision (30 feet)
 ##Gnoll (Half-Hyena)
  - - Strength: +1
- - - Proficient in Intimidate
  - - Bite Attack (1d6 Peircing damage). they can use their Bite as a Bonus action. 
 ##Satyr (Half-Goat)
  - - Widsom: +1
- - - Proficiency in Persuasion
  - - Headbutt Attack (1d6 Bludgeoning damage). they can use their Headbutt as a Bonus action. 
