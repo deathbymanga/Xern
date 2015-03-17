@@ -21,10 +21,11 @@
  - Proficient in Animal Handling
 ##North
  - - Charisma: +1
- - - 
+ - - Proficient in Martial weapons (both ranged and melee)
 ##South
  - - Strength: +1
- - - 
+ - - Evasion - the player can jump 20 feet away from an enemy without drawing AoO. The number of times 
+      this power can be used is equal to the player's own level.
 
 #Halfling	
  - Dexterity: +2
@@ -45,10 +46,14 @@
  - Talons (1d4 Slashing)
 ##Mountain
  - - Charisma: +1
- - - 
+ - - Shadowvision - once every short rest, the player can activate this power. When activates, the player gains 
+       120 feet of colored darkvision and can identify undead even behind solid walls. this power will last 1 second 
+       for every level the player is. 
 ##Sky
  - - Wisdom: +1
- - - 
+ - - Divine Light - once every short rest, the player can activate this power. When activated, a bright 
+       light will stretch 40 feet away, and any creatures (allies included) that are 20 feet away will get the blindness 
+       effect on them for as long as they are in range. The light will last for 1 second for every level the player is. 
 
 #Human	
  - 1 extra language
