@@ -1,40 +1,70 @@
 #Gnome	
+ - Intelligence: +2
+ - Advantage to Intelligence, Wisdom, and Charisma Saving throws
 ##Deep
- - - Intelligence: +2 Dexterity +1
+ - - Dexterity: +1
+ - - Advantage to Stealth checks in rocky terrain
+ - - Darkvision (120/color)
 ##Forrest
- - - Intelligence: +2 Wisdom +1
+ - - Dexterity: +1
+ - - Darkvision (60/monochrome)
+ - - Minor Illusion Cantrip
+ - - Speak with Small Beasts
+##Rock
+ - - Constitution: +1
+ - - Darvision (60/monochrome)
+ - - Add twice your Proficiency bonus to your History Checks when analyzing magical, alchemical, or technological objects. 
+ - - Tinker: Proficiency with Artisan Tools. 
 
 #Goblin	
+ - Intelligence: +2
+ - Proficient in Animal Handling
 ##North
- - - Intelligence: +2 Charisma: +1
- - - Proficient in Animal Handling
+ - - Charisma: +1
+ - - 
 ##South
- - - Intelligence: +2 Strength: +1
- - - Proficient in Animal Handling
+ - - Strength: +1
 
 #Halfling	
+ - Dexterity: +2
+ - Lucky
+ - Brave
+ - Nimble
 ##Stout
- - - Dexterity: +2 Constitution: +1
+ - - Constitution: +1
+ - - Advantage on Saving throws against Poison
+ - - Restance to Poison Damage
 ##Lightfoot
- - - Dexterity: +2 Charisma: +1
+ - - Charisma: +1
+ - - Can make a stealth check anywhere
 
 #Harpie	
+ - Dexterity: +2
+ - Can Fly (speed 50ft)
+ - Talons (1d4 Slashing)
 ##Mountain
- - - Dexterity: +2 Charisma: +1
- - - Can fly
+ - - Charisma: +1
+ - - 
 ##Sky
- - - Dexterity: +2 Wisdom: +1
- - - Can Fly
+ - - Wisdom: +1
+ - - 
 
 #Human	
+ - 1 extra language
 ##Human
- - - 1 in all
+ - - +1 in all
+##Variant Human
+ - - +1 in two abilities.
+ - - Proficiency in 1 extra skill
+ - - Bonus Feat
 ##Half-Ogre
- - - Strength: +2, Charisma +1
+ - - Strength: +2 Charisma +1
  - - Magic Initiative Feat
 ##Half-Nymph
  - - Charisma: +2, two other abilities +1
  - - Fey Ancestry
+ - - Proficient in 2 skills
+ - - Darkvision (30 feet/Monochrome)
 
 #Nymph	
  - Dexterity: +2
@@ -51,12 +81,17 @@
  - - Fey Ancestry
 
 #Orc	
+ - Strength: +2
+ - Darkvision (60 feet/Monochrome)
+ - Proficient in Intimidate
+ - Relentless Endurance: When you go past 0HP but aren't killed, you can go up to 1HP. Short Rest needed to recharge.
 ##Dung
- - - Strength: +2 Constitution: +1
+ - - Constitution: +1
+ - - Savage Attack: A Critical Hit can result in rolling the weapon's damage dice again
 
 #Hellspawn (Half-demon/Half-Humanoid)
  - Intelligence: +2
- - Darkvision (30 feet)
+ - Darkvision (30 feet/Color)
  - Infernal Legacy (Charisma)
  - - Thaurnaturgy Cantrip
  - - level 3 - Hellish Rebuke (2nd level)
@@ -75,7 +110,7 @@
 #Wildling (Half-demon/Half-Animal)
  - Constitution: +2
  - Proficient in Perception OR Atheletics
- - Darkvision (30 feet)
+ - Darkvision (30 feet/Color)
 ##Gnoll (Half-Hyena)
  - - Strength: +1
  - - Bite Attack (1d6 Peircing damage). they can use their Bite as a Bonus action. 
