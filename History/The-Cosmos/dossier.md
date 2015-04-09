@@ -1,4 +1,4 @@
-Originally there was only the Archfey, who isolated itself from the rest of the Demons in the cosmic void of chaos. It managed to create a bubble of its own, but grew lonely. Not wanting to return to the other Demons, it instead divided itself into 5 beings: Light, representing it's desire for Order and control, moulded stars out of the chaos and took charge of the cosmos. 
+Originally there was nothing but the Chaos, and the Demons, beings manifested from the chaos. Among the Demons was the Archfey, who isolated itself from the rest of the Demons in the cosmic void of chaos. It managed to create a bubble of its own, but grew lonely. Not wanting to return to the other Demons, it instead divided itself into 5 beings: Light, representing it's desire for Order and control, moulded stars out of the chaos and took charge of the cosmos. 
 
 The Mother, the Archfey's love and tolerance, as well as guilt and pain, began creating life, holding planets and filling the planets with new organisms. When an organism died, its spiritual energy returned to the cosmic void where it was protected and guarded by the Light.
 
@@ -6,7 +6,7 @@ Trickery, representing the Archfey's distrust of the other Demons, as well as it
 
 Nature and Weather established themselves as the rules of what they felt was most natural. Weather was the little trust that the Archfey had, as well as its guidance and foresight. He could see what the other aspects couldn't. He began to hold fate itself, commanding the weather and began isolating himself from the other aspects, preparing for what he knew what was to come.
 
-Nature instead found herself more at home in the worlds that the Mother left alone. The Mother just cared for creating, and then watching for her creations to be no more. Nature loved to interact, to shape, to change, to experiment. Nature was Experience itself. She would actually tear off pieces of herself, mould them into mortals, and send them to worlds to learn and experience. 
+Nature instead found herself more at home in the worlds that the Mother left alone. The Mother just cared for creating, and then watching for her creations to be no more. Nature loved to interact, to shape, to change, to experiment. Nature was Experience itself. She would actually tear off pieces of herself, mould them into mortals, and send them to worlds to learn and experience.
 
 One of those experiences led her to finding War. War was the greatest warrior ever found. He loved combat more than anything. He met Nature during one of her quests, and she eventually showed him the rest of the cosmos. When he died, he refused to go to the Light and rest his soul in peace. Instead, he traveled to new worlds, his soul so strong it could manifest on any plane without any effort, and he fought and killed millions. The Gods needed to find a solution to War's problem. 
 
