@@ -19,9 +19,11 @@
 #Goblin	
  - Intelligence: +2
  - Proficient in Animal Handling
+[unavailable]
 ##North
  - - Charisma: +1
  - - Proficient in Martial weapons (both ranged and melee)
+[/unavailable]
 ##South
  - - Strength: +1
  - - Evasion - the player can jump 20 feet away from an enemy without drawing AoO. The number of times 
@@ -98,6 +100,7 @@
  - - Speed: 35
  - - Mask of the Wild
 
+[unavailable]
 #Orc	
  - Strength: +2
  - Darkvision (60 feet/Monochrome)
@@ -106,6 +109,7 @@
 ##Dung
  - - Constitution: +1
  - - Savage Attack: A Critical Hit can result in rolling the weapon's damage dice again
+[/unavailable]
 
 #Hellspawn (Half-demon/Half-Humanoid)
  - Intelligence: +2
@@ -133,7 +137,9 @@
  - - Strength: +1
  - - Rampage: If the player reduces a creature's HP to 0 with a melee atack on its turn, they get an additional bonus action. 
  - - Bite Attack (1d6 Peircing damage). they can use their Bite as a Bonus action. 
+[unavailable]
 ##Satyr (Half-Goat)
  - - Widsom: +1
  - - 
  - - Headbutt Attack (1d6 Bludgeoning damage). they can use their Headbutt as a Bonus action. 
+[/unavailable]
