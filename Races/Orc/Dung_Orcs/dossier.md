@@ -2,14 +2,14 @@
 *Authors:  *
 
 ##Stats:
-Constitution: +2. 
-Strength: +1.
-Speed: 30.
-Size: 6-7ft.
-Darvision: Black/white 60ft.
-Menacing: Prof. Intimidate.
-Relentless Endurance: When you are reduced to 0 HP but not killed outright, you can drop to 1 HP instead. Long Rest Recharge.
-Language: Speak Orc, Goblin, Common.
+* Constitution: +2. 
+* Strength: +1.
+* Speed: 30.
+* Size: 6-7ft.
+* Darvision: Black/white 60ft.
+* Menacing: Prof. Intimidate.
+* Relentless Endurance: When you are reduced to 0 HP but not killed outright, you can drop to 1 HP instead. Long Rest Recharge.
+* Language: Speak Orc, Goblin, Common.
 
 ##Location
 Traditionally a mountain race, the Dung Orcs recieved their moniker from the Goblins who would laugh and enslave them. The Dung Orcs went north and west, populating the high mountains as well as the edges of the Great Chasm. They actually are populated among even the north and have made dealings with the Epuan empire in the west. 
