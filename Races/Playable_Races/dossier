@@ -18,16 +18,18 @@
 
 #Goblin	
  - Intelligence: +2
- - Proficient in Animal Handling
+ - Speed - Goblins, despite their size, run quite well. some say their innate cowardlyness plays a huge part in this. Your base walking speed is 30ft. 
+ - Size - Small
+ - Clever Cowards - Goblins have disadvantage on wisdom saves against being freightened, but have advantage on all saves and ability checks against being charmed. 
+ - Trappers and Tamers - When a Goblin makes a Wisdom (Animal Handling) check related to taming a wild beast, they are considered proficient in the animal handling skill and add double your proficiency bonus to the check, instead of your normal proficiency bonus
 [unavailable]
 ##North
  - - Charisma: +1
- - - Proficient in Martial weapons (both ranged and melee)
+ - - Proficient in the Whip, Net, Blowgun, and Scimitar
 [/unavailable]
 ##South
  - - Strength: +1
- - - Evasion - the player can jump 20 feet away from an enemy without drawing AoO. The number of times 
-      this power can be used is equal to the player's own level. recharges every short rest
+ - - Nimble Escape - if the player has no allies adjacent to them, they can disengage as a bonus action
 
 #Halfling	
  - Dexterity: +2
